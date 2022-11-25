@@ -157,6 +157,10 @@ textarea {
   .btn--theme {
     background: #0062b9;
     color: #fff; }
+  .btn--footer-links {
+    background: #a900b9;
+    color: #fff;
+  }  
   .btn--theme-inv {
     color: #0062b9;
     background: #fff;
