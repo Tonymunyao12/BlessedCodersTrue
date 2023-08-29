@@ -1,4 +1,4 @@
-# Dopefolio 🔥
+# BlessedCoders 🔥
 
 ## A Blazing Fast Multipage Portfolio Template for Developers 🚀
 
@@ -56,14 +56,14 @@
 
 ## How To Use 🔧
 
-From your command line, first clone Dopefolio:
+From your command line, first clone BlessedCodersTrue :
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rammcodes/dopefolio
+$ git clone https://github.com/Tonymunyao12/BlessedCodersTrue
 
 # Go into the repository
-$ cd dopefolio
+$ cd BlessedCodersTrue
 
 # Remove current origin repository
 $ git remote remove origin
@@ -559,7 +559,7 @@ If you like to know how to submit forms so you can receive the form details in y
         </div>
       </div>
       <div class="main-footer__row main-footer__row-2">
-        <h4 class="heading heading-sm text-lt">John Doe</h4>
+        <h4 class="heading heading-sm text-lt">Tony Mulatya</h4>
         <p class="main-footer__short-desc">
           Lorem ipsum dolor sit amet consectetur adipisicing elit facilis
           tempora explicabo quae quod deserunt
@@ -569,8 +569,8 @@ If you like to know how to submit forms so you can receive the form details in y
 
     <div class="main-footer__lower">
       &copy; Copyright 2021. Made by
-      <a rel="noreferrer" target="_blank" href="https://rammaheshwari.com"
-        >Ram Maheshwari</a
+      <a rel="noreferrer" target="_blank" href="#"
+        >Tony Mulatya</a
       >
     </div>
   </div>
@@ -758,12 +758,12 @@ If you like this project then give it a **Github** star by pressing the **Star**
 
 ## Author 👨‍💻
 
-- **Ram Maheshwari** - **[Linkedin](https://linkedin.com/in/rammcodes)**, **[Twitter](https://twitter.com/rammcodes)**, **[Github](https://github.com/rammcodes)**, **[Portfolio](https://rammaheshwari.com)**  
+- **Ram Maheshwari** - **[Linkedin](https://www.linkedin.com/in/tony-munyao-23080b134)**, **[Twitter](https://twitter.com/tony_munyao?t=E7-woBRchcs27HqjUGklA&s=09)**, **[Github](https://www.github.com/Tonymunyao12)**, **[Portfolio](https://rammaheshwari.com)**  
 
 <br>
 
 #### Note: 
-I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://linkedin.com/in/rammcodes)** or my email id **rammcodes@gmail.com** 🙌
+I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://www.linkedin.com/in/tony-munyao-23080b134)** or my email id **munyaotony12@gmail.com** 🙌
 
 
 <br>
@@ -774,7 +774,10 @@ I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )
 
 ## Special Thanks ❤️
 
-Special thanks to [Jacobo Martínez](https://github.com/cobidev) for inspiring me to create something useful for the Developer Community. **Jacobo** is the creator of [Simplefolio](https://github.com/cobidev/simplefolio) which is another great Portfolio website Template for Developers. Check it out and show him some love ❤️
+Special thanks to [John Doe](https://github.com/rammcodes) for inspiring me to create something useful for the Developer Community. **John Doe** is the creator of [dopefolio](https://github.com/rammcodes/dopefolio) which is another great Portfolio website Template for Developers. Check it out and show him some love ❤️
+
+
+Also as a bonus special thanks to [Jacobo Martínez](https://github.com/cobidev) for inspiring me to create something useful for the Developer Community. **Jacobo** is the creator of [Simplefolio](https://github.com/cobidev/simplefolio) which is another great Portfolio website Template for Developers. Check it out and show him some love too ❤️
 
 <br>
 
